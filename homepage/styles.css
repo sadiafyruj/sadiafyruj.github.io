@@ -1,0 +1,74 @@
+#index {
+  background-image: url('extra/gif.GIF');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100vh;
+  background-size: cover;
+}
+
+#center {
+  text-align: center;
+  margin-top: 25%;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Add a color to the active/current link */
+.topnav .active {
+  background-color: #4CAF50;
+  color: black;
+}
+
+.container {
+  text-align: center;
+}
+
+.image.html {
+  background-color:#DEB887;
+  background-size: cover;
+}
+
+body {
+  background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+  min-height: 100vh;
+  font: normal 16px sans-serif;
+}
+
+.search {
+  float: right;
+}
+
+#AboutMe {
+  background-color: #f5e9da;
+}
+
+#Favorites {
+  background-color: #d9d6c0;
+}
+
+#collage {
+  background-color: #ecc7a1;
+}
+
+.map {
+  height: 100vh;
+}
+
+#placereview {
+  background-color: #c2ad99;
+}
